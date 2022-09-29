@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "mpu6050.h": "c",
+        "usart.h": "c",
+        "i2c.h": "c",
+        "my.h": "c",
+        "tim.h": "c",
+        "pid.h": "c"
+    }
+}
